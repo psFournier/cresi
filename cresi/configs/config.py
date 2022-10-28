@@ -3,6 +3,7 @@ from collections import namedtuple
 Config = namedtuple("Config", [
   "path_src",
   "path_results_root",
+  "path_data_root",
   "save_weights_dir",
   "num_channels",
   "network",

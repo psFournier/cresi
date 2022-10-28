@@ -35,7 +35,7 @@ import cv2
 
 from utils import make_logger
 from configs.config import Config
-wkt_to_G = __import__('05_wkt_to_G')
+#wkt_to_G = __import__('05_wkt_to_G')
 
 logger1 = None
 linestring = "LINESTRING {}"
